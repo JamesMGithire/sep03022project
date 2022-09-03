@@ -14,10 +14,13 @@
   height: 90vh;
 }
 .margin0{
-  margin: 0;
+  margin: auto;
 }
 .position-relative{
   position: relative;
+}
+.position-absolute{
+  position: absolute;
 }
 .display-flex{
   display: flex;
@@ -40,6 +43,9 @@
 }
 .font1rem{
   font-size: 1rem;
+}
+.font-1rem{
+  font-size: 10px;
 }
 .center-row{
   justify-content: center;
@@ -81,7 +87,12 @@ a{
 .top-1{
   top: 1;
 }
-
+.text-a-l{
+  text-align: left;
+}
+.left20{
+  left:200px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .photo {
