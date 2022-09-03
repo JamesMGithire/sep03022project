@@ -1,5 +1,6 @@
 import About from './About';
 import './App.css';
+import Footer from './Footer';
 import Info from './Info';
 import Interests from './Interests';
 
@@ -10,6 +11,7 @@ function App() {
         <Info className="width100pc"/>
         <About/>
         <Interests/>
+        <Footer/>
       </div>
     </div>
   );
