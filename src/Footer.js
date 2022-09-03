@@ -11,7 +11,7 @@ export default function Footer() {
             <i class="fa-brands fa-linkedin font1rem opacity-5"></i>
             </div>
             <div>
-            <i class="fa-brands fa-github"></i>
+            <i class="fa-brands fa-github font1rem opacity-5"></i>
             </div>
 
         </footer>
